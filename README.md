@@ -1,5 +1,5 @@
 # Portfolio Website
 
 ####LINK####
-file:///home/ravi/Downloads/Portfolio-master/index.html#home
+https://ravijoshi0306.github.io/portfolio/
 ####LINK####
